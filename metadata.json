@@ -1,0 +1,5 @@
+{
+  "name": "Smart Hull & Structural Health",
+  "description": "AI-powered Digital Twin for Indian Navy hull-form optimization and protective coating defect detection. Visualizes real-time hydrodynamic pressure, corrosion fatigue, and simulates catastrophic failure under depth pressure.",
+  "requestFramePermissions": []
+}
